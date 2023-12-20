@@ -19,13 +19,36 @@ The current focus of the project includes:
 - Implementing and fine-tuning NLP techniques for topic modeling and keyword extraction.
 - Visualizing and interpreting the results to derive meaningful insights.
 
+### Tools
+
+#### List of tools used in this project:
+##### Kaggle
+- Acquire datasets.
+
+##### Excel
+- Perform data cleaning by removing blank spaces as well as incorrect and outdated information
+- Format and adjust data using conditional formatting
+- Perform data calculations using formulas
+- Organize data using sorting and filtering
+- Create visualizations using graphing and charting
+- Calculate, summarize, and analyze data using pivot tables
+- Aggregate data for analysis
+
+##### SQL
+- Create tables
+- Retrieve data using SQL index
+- Retrieve data using SQL queries
+- Aggregate data with SQL joins
+
+##### Tableau
+- Compare data from multiple views using Tableau dashboards
+- Create visualizations using Tableau visualization tools
+
 ### Data Understanding
 
+The project utilizes datasets from Kaggle. Future enhancements may include incorporating additional datasets for broader insights.
 
 ### Screenshots of Visualization/Results
-
-
-### Approach
 
 
 ### Status
